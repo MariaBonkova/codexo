@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#logo{
+    position: relative;
+    border-top: 100px solid  rebeccapurple;
+    border-right: 100px solid rgba(116, 34, 102);
+    border-bottom: 100px solid mediumpurple;
+    border-left:100px solid  rgba(47, 93, 170);
+    width: 300px;
+    height: 100px;
+    margin: 50px auto;
+}
